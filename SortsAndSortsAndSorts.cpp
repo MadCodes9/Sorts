@@ -1,17 +1,4 @@
 /*
-* Program: SortsAndSortsAndSorts.cpp
-* Author: Ceiara Madrigal
-* Course: CSCI 230
-* Date: 5/11/21
-* Description: This project, includes insertion sort, merge sort, quick sort, bubble sort, 
-* randomized quick sort, and bucket sort. The first part of the project is to compare the 
-* run times of the three new sorting algorithms against the previous three. Using array 
-* sizes of 500, 1000, and 2000, there will be three types of arrays: an array in ascending, 
-* descending, and randomly populated order. The second part of this project, uses an array 
-* that is randomly populated compares the efficency of insertion sort, merge sort, and quick 
-* sort. You are to adjust the size of the array that is being sorted until the time it takes
-* using each algorithm is comparatively the same.   
-*
 * I certify that the following code is my own work.
 *
 * Exception(s): N/A
