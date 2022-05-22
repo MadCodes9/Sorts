@@ -67,8 +67,8 @@ Project is created with
 ## Setup
 To run this project use Microsoft Visual Studio or an IDE that supports C++20 and download the files.
 Asks user input to enter the size of the vector to be sorted with six different algorithms.
-
-![Sample Output]()
+**Sample Output**
+![Image]()
 
 ## Status 
 This is a project created by @MadCodes9 :grinning:
