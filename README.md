@@ -68,7 +68,8 @@ Project is created with
 To run this project use Microsoft Visual Studio or an IDE that supports C++20 and download the files.
 Asks user input to enter the size of the vector to be sorted with six different algorithms.
 
-**Sample Output with size 500**
+**Sample Output**
+
 ![Image](https://github.com/MadCodes9/Sorts/blob/main/500p1.png)
 ![Image](https://github.com/MadCodes9/Sorts/blob/main/500p2.png)
 
