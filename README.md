@@ -66,9 +66,10 @@ Project is created with
 * 
 ## Setup
 To run this project use Microsoft Visual Studio or an IDE that supports C++20 and download the files.
-The Cheese1.txt and Cheese2.txt represent two different mazes. These files should be located in the Debug Folder and can be changed to different values representing vertices of the graph.
+Asks user input to enter the size of the vector to be sorted with six different algorithms.
 
 ![Sample Output]()
+
 ## Status 
 This is a project created by @MadCodes9 :grinning:
 
