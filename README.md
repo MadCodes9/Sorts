@@ -1,7 +1,7 @@
 # Sorts
 Implements six sorting algorithms; insertion sort, merge sort, quick sort, bubble sort, 
 randomized quick sort, and bucket sort and compares the running times in ascending, 
-descending, and randomly populated order.
+descending, and randomly populated order
 
 ## General Information 
 This project, includes insertion sort, merge sort, quick sort, bubble sort, 
