@@ -1,0 +1,4 @@
+﻿  Sorts.cpp
+C:\Users\Jennifer\Desktop\SortsAndSortsAndSorts\Sorts.cpp(111,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Jennifer\Desktop\SortsAndSortsAndSorts\Sorts.cpp(145,23): warning C4018: '<': signed/unsigned mismatch
+  SortsAndSortsAndSorts.vcxproj -> C:\Users\Jennifer\Desktop\SortsAndSortsAndSorts\Debug\SortsAndSortsAndSorts.exe
