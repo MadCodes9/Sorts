@@ -65,7 +65,7 @@ Project is created with
 * Language: C++20
 * 
 ## Setup
-To run this project use Microsoft Visual Studio or an IDE that supports C++20 and download the files.
+To run this project use Microsoft Visual Studio or an IDE that supports C++20 and download the .cpp and .h files into your IDE.
 Asks user input to enter the size of the vector to be sorted with six different algorithms.
 
 **Sample Output**
